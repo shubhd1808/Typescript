@@ -26,6 +26,7 @@ let empId:Array<number>=[1,2,3,4,5];
 let data:Array<number|string>=["Shubham",1,2,"John"];
 let mixedData:Array<any>=[1,"John",true,null];
 
+iutwefq
 
 console.log(empNames[2]);
 console.log(empId.length);
