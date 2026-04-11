@@ -28,6 +28,7 @@ let mixedData:Array<any>=[1,"John",true,null];
 
 let mixedData2 : Array<any>=[1,"John",true,null];
 
+console.log("My Name is shubham dalal")
 console.log(empNames[2]);
 console.log(empId.length);
 
