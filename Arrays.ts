@@ -24,6 +24,7 @@
 let empNames:Array<string>=["John","Smith","Peter","Scott"];
 let empId:Array<number>=[1,2,3,4,5];
 let data:Array<number|string>=["Shubham",1,2,"John"];
+
 let mixedData:Array<any>=[1,"John",true,null];
 
 let mixedData2 : Array<any>=[1,"John",true,null];
